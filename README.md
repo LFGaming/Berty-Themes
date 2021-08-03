@@ -1,6 +1,8 @@
 # Berty Themes
-A list of community made themes for the Berty messenger
+A list of community made themes for the Berty messenger.
 
+If you want to make your own theme, then the standart theme is listed below, you can just change the hex color codes to make your own theme.
+```json
 {
   "main-background": "#FFFFFF",
   "main-text": "#383B62",
@@ -14,3 +16,4 @@ A list of community made themes for the Berty messenger
   "warning-asset": "#F64278",
   "input-background": "#F7F8FF"
 }
+```
